@@ -1,6 +1,7 @@
 # Program menentukan apakah suatu bilangan ganjil atau genap
 
-Program ini menerima input sebuah bilangan dari pengguna dan progam akan menentukan apakah bilangan tersebut habis dibagi 2(modulus 2) atau tidak. jika bilangan yang di input pengguna habis dibagi 2(modeulus 2), maka program akan mengeluarkan output "BIlangan Genap" dan sebaliknya.
+Program ini menerima input sebuah bilangan dari pengguna dan progam akan menentukan apakah bilangan tersebut habis dibagi 2(modulus 2) atau tidak. 
+jika bilangan yang di input pengguna habis dibagi 2(modeulus 2), maka program akan mengeluarkan output "BIlangan Genap" dan sebaliknya.
 
 ## 🧮 Bahasa Pemrograman
 - Java
